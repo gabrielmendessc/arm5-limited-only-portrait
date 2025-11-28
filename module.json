@@ -2,7 +2,7 @@
   "id": "arm5-limited-only-portrait",
   "title": "Arm5 Limited Only Portrait",
   "description": "Replaces Arm5 system sheets for sheets that show only the Actor portrait in Limited ownership",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
