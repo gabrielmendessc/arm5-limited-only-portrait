@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "12"
+    "verified": "13"
   },
   "relationships": {
     "systems": [
@@ -42,5 +42,5 @@
   ],
   "url": "https://github.com/gabrielmendessc/arm5-limited-only-portrait",
   "manifest": "https://github.com/gabrielmendessc/arm5-limited-only-portrait/releases/latest/download/module.json",
-  "download": "https://github.com/gabrielmendessc/arm5-limited-only-portrait/releases/download/v1.0.0/arm5-limited-only-portrait.zip"
+  "download": "https://github.com/gabrielmendessc/arm5-limited-only-portrait/releases/download/v1.1.0/arm5-limited-only-portrait.zip"
 }
